@@ -1,0 +1,14 @@
+C:\Users\gos89_000\Desktop\Proye\Proye\obj\Debug\netcoreapp3.1\Proye.csprojAssemblyReference.cache
+C:\Users\gos89_000\Desktop\Proye\Proye\obj\Debug\netcoreapp3.1\Proye.csproj.CoreCompileInputs.cache
+C:\Users\gos89_000\Desktop\Proye\Proye\obj\Debug\netcoreapp3.1\Proye.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gos89_000\Desktop\Proye\Proye\obj\Debug\netcoreapp3.1\Proye.RazorAssemblyInfo.cache
+C:\Users\gos89_000\Desktop\Proye\Proye\obj\Debug\netcoreapp3.1\Proye.RazorAssemblyInfo.cs
+C:\Users\gos89_000\Desktop\Proye\Proye\obj\Debug\netcoreapp3.1\Proye.AssemblyInfoInputs.cache
+C:\Users\gos89_000\Desktop\Proye\Proye\obj\Debug\netcoreapp3.1\Proye.AssemblyInfo.cs
+C:\Users\gos89_000\Desktop\Proye.5\Proye\obj\Debug\netcoreapp3.1\Proye.csprojAssemblyReference.cache
+C:\Users\gos89_000\Desktop\Proye.5\Proye\obj\Debug\netcoreapp3.1\Proye.csproj.CoreCompileInputs.cache
+C:\Users\gos89_000\Desktop\Proye.5\Proye\obj\Debug\netcoreapp3.1\Proye.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gos89_000\Desktop\Proye.5\Proye\obj\Debug\netcoreapp3.1\Proye.RazorAssemblyInfo.cache
+C:\Users\gos89_000\Desktop\Proye.5\Proye\obj\Debug\netcoreapp3.1\Proye.RazorAssemblyInfo.cs
+C:\Users\gos89_000\Desktop\Proye.5\Proye\obj\Debug\netcoreapp3.1\Proye.AssemblyInfoInputs.cache
+C:\Users\gos89_000\Desktop\Proye.5\Proye\obj\Debug\netcoreapp3.1\Proye.AssemblyInfo.cs
